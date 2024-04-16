@@ -1,0 +1,12 @@
+[package]
+name = "pkcs_test"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cryptoki = "0.6.2"
+dotenv = "0.15.0"
+pkcs11 = "0.5.0"
+secrecy = "0.8"

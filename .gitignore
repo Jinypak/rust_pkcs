@@ -1,0 +1,11 @@
+# 환경변수
+.env
+
+# 실행파일
+# cargo run 시 실행 가능
+# cargo buld 후 /target/debug 하단 응용 프로그램 실행
+/target
+
+
+# 기타
+LunaCryptokiLog.htm
